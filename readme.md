@@ -9,7 +9,7 @@ I offer contract development, please contact me via e-mail or Discord.
 
 - [WebMen Internet GmbH](https://webmen.de/)
   
-- [TakkoMedia](https://github.com/TakkoMedia/)
+- [StädtlerStudios](https://github.com/StaedtlerStudios/)
   
 - [Kiso Network](https://github.com/KisoMC)
 - [HelixDevs](https://github.com/HelixDevsMC)
